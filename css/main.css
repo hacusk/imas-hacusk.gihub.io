@@ -1,0 +1,42 @@
+/*!
+Copyright (c) 2013-2018 YOOtheme GmbH, getuikit.com
+Code released under the MIT license
+https://opensource.org/licenses/mit-license.php
+*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@media screen and (max-width: 959px) {
+  body {
+    padding-bottom: 15px; } }
+@media screen and (min-width: 960px) {
+  body {
+    padding-bottom: 70px; } }
+.img-circle {
+  border-radius: 50%;
+  width: auto;
+  height: auto; }
+
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Open Sans', sans-serif; }
+
+.haruka {
+  background-color: #e22b30; }
+
+.sachiko {
+  background-color: #ccaacf; }
+
+.konomi {
+  background-color: #f1becb; }
+
+.kyoji {
+  background-color: #6ac4e9; }
+
+.chiyoko {
+  background-color: #f93b90; }
+
+.beit {
+  background-color: #1fb9df; }
+
+.houkago {
+  background-color: #fa8333; }
+
+/*# sourceMappingURL=main.css.map */

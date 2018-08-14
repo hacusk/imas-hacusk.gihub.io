@@ -3,7 +3,7 @@ Copyright (c) 2013-2018 YOOtheme GmbH, getuikit.com
 Code released under the MIT license
 https://opensource.org/licenses/mit-license.php
 */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=M+PLUS+1p");
 @media screen and (max-width: 959px) {
   body {
     padding-bottom: 15px; } }
@@ -16,27 +16,48 @@ https://opensource.org/licenses/mit-license.php
   height: auto; }
 
 h1, h2, h3, h4, h5, h6, p {
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'M PLUS 1p', sans-serif; }
 
-.haruka {
+.haruka-bc {
   background-color: #e22b30; }
 
-.sachiko {
+.sachiko-bc {
   background-color: #ccaacf; }
 
-.konomi {
+.konomi-bc {
   background-color: #f1becb; }
 
-.kyoji {
+.kyoji-bc {
   background-color: #6ac4e9; }
 
-.chiyoko {
+.chiyoko-bc {
   background-color: #f93b90; }
 
-.beit {
+.beit-bc {
   background-color: #1fb9df; }
 
-.houkago {
+.houkago-bc {
   background-color: #fa8333; }
+
+.haruka {
+  color: #e22b30; }
+
+.sachiko {
+  color: #ccaacf; }
+
+.konomi {
+  color: #f1becb; }
+
+.kyoji {
+  color: #6ac4e9; }
+
+.chiyoko {
+  color: #f93b90; }
+
+.beit {
+  color: #1fb9df; }
+
+.houkago {
+  color: #fa8333; }
 
 /*# sourceMappingURL=main.css.map */

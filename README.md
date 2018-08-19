@@ -1,4 +1,4 @@
-# imas-hacusk.gihub.io
+# imas.hacusk.net
 
 My "idolm@ster" personal website.  
 
